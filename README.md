@@ -110,7 +110,6 @@
 
 ## 📬 Let's Connect
 
-![snake gif](https://github.com/PruthvirajPhadatare/PruthvirajPhadatare/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center">
   <a href="mailto:pruthvirajphadatare@outlook.com">
@@ -121,3 +120,5 @@
 ---
 
 ⭐️ From [PruthvirajPhadatare](https://github.com/PruthvirajPhadatare)
+
+![snake gif](https://github.com/PruthvirajPhadatare/PruthvirajPhadatare/blob/output/github-contribution-grid-snake.svg)
