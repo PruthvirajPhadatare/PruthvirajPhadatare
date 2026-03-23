@@ -1,139 +1,120 @@
-# 🌐 DevOps Portfolio – Pruthviraj Phadatare
+<h1 align="center">🚀 Pruthviraj Phadatare</h1>
+<h3 align="center">AWS Cloud & DevOps Engineer | Terraform | Kubernetes | CI/CD</h3>
 
-🚀 **Live Portfolio:** https://portfolio-pruthvi.vercel.app
+<p align="center">
+  <a href="https://portfolio-pruthvi.vercel.app">
+    <img src="https://img.shields.io/badge/🌐 Portfolio-Visit-blue?style=for-the-badge">
+  </a>
+  <a href="https://www.linkedin.com/in/pruthvirajphadatare/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:pruthvirajphadatare@outlook.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+  </a>
+</p>
 
 ---
 
-## 👋 AWS & DevOps Engineer
+## 💫 About Me
 
-AWS Cloud & DevOps Engineer with **2+ years of experience** in designing scalable cloud infrastructure, automating CI/CD pipelines, and optimizing deployment workflows.
+💡 AWS Cloud & DevOps Engineer with **2+ years of experience** in building scalable cloud infrastructure and automating CI/CD pipelines
 
 🚀 **Actively seeking DevOps / Cloud Engineer opportunities**
+
+* ⚡ Reduced infrastructure build time by **40%**
+* 🚀 Improved deployment speed by **50%**
+* 🔥 Saved **80% manual effort** using automation
 
 ---
 
 ## ⚡ Core Stack
 
-AWS | Terraform | Kubernetes | Docker | Jenkins | GitHub Actions | ArgoCD | Linux | Bash | Python
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,jenkins,githubactions,linux,bash,python" />
+
+</p>
 
 ---
 
-## 📊 Performance Highlights
+## 🚀 Project Highlights
 
-* ⚡ **40% Reduction in Infrastructure Build Time**
-  Using Terraform for automated provisioning
+### 🔹 3-Tier AWS Architecture
 
-* 🚀 **50% Faster Deployment Cycles**
-  Through Jenkins and ArgoCD pipelines
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
+![EC2](https://img.shields.io/badge/EC2-Compute-yellow)
+![RDS](https://img.shields.io/badge/RDS-Database-blue)
 
-* 🔥 **80% Manual Effort Saved**
-  By developing modular AWS infrastructure
-
----
-
-## 🚀 Project Showcases
-
-### 🔹 3-Tier Application Deployment on AWS (FSPL)
-
-Designed and deployed a **secure, production-ready 3-tier architecture** on AWS with high availability.
-
-**Tech Stack:** AWS, EC2, RDS, ALB, VPC, Linux, Nginx
+✔ Production-ready architecture with ALB + VPC
+✔ High availability & secure networking
 
 ---
 
-### 🔹 3-Tier Application (Docker + Kubernetes)
+### 🔹 Kubernetes Microservices Deployment
 
-Transformed a traditional application into a **containerized and scalable Kubernetes deployment**.
+![Docker](https://img.shields.io/badge/Docker-Container-blue)
+![Kubernetes](https://img.shields.io/badge/K8s-Orchestration-blue)
 
-**Tech Stack:** Docker, Kubernetes, Microservices
-
----
-
-### 🔹 DevSecOps Pipeline Implementation
-
-Built a **secure CI/CD pipeline** integrating automated security scanning and code quality analysis.
-
-**Tech Stack:** Jenkins, Docker, Trivy, SonarQube
+✔ Containerized application
+✔ Deployed scalable microservices
 
 ---
 
-### 🔹 Node.js CI/CD Pipeline Automation
+### 🔹 DevSecOps CI/CD Pipeline
 
-Automated end-to-end deployment of a Node.js application using AWS-based CI/CD pipelines.
+![Jenkins](https://img.shields.io/badge/Jenkins-CI-red)
+![SonarQube](https://img.shields.io/badge/SonarQube-Code%20Quality-blue)
 
-**Tech Stack:** Node.js, Jenkins, Docker, AWS EC2
-
----
-
-### 🔹 Cloud-Native Monitoring Application
-
-Built a **real-time monitoring dashboard** using cloud-native tools.
-
-**Tech Stack:** Python, Flask, Kubernetes, Docker
+✔ Automated security scanning
+✔ Integrated CI/CD workflows
 
 ---
 
-### 🔹 Two-Tier Flask Application on Kubernetes
+### 🔹 Cloud Monitoring Dashboard
 
-Deployed a **Flask-MySQL application on Kubernetes** with persistent storage and scalability.
+![Prometheus](https://img.shields.io/badge/Prometheus-Monitoring-orange)
+![Grafana](https://img.shields.io/badge/Grafana-Visualization-orange)
 
-**Tech Stack:** Flask, MySQL, Kubernetes, Docker, AWS
-
----
-
-### 🔹 3-Tier Chat Application on Kubernetes
-
-Implemented a **real-time chat application using microservices architecture on Kubernetes**.
-
-**Tech Stack:** Kubernetes, Docker, WebSockets, Node.js
+✔ Real-time system monitoring
+✔ Kubernetes + Docker metrics
 
 ---
 
-## 🧠 Technical Skills & Cloud Expertise
+## 🧠 Technical Expertise
 
-### ☁️ Cloud Ecosystem
+<p align="center">
 
-AWS, Oracle Cloud (OCI), EC2, RDS, S3, Lambda, CloudWatch, VPC, IAM
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,githubactions,linux,python,mysql" />
 
-### 🏗️ IaC & Automation
-
-Terraform, CloudFormation, Ansible, Bash Scripting, Python, Jenkins, GitHub Actions
-
-### ⚙️ Orchestration
-
-Kubernetes, Amazon EKS, Docker, Helm, ArgoCD, Container Registry
-
-### 📊 Observability
-
-Prometheus, Grafana, CloudWatch, ELK Stack, Alerting
+</p>
 
 ---
 
-## 🎓 Credentials & Education
+## 📊 GitHub Stats
 
-### 🏆 Certifications
-
-* AWS Certified Solutions Architect – Associate
-* AWS Certified Cloud Practitioner
-* OCI Architect Associate (2025)
-* OCI Foundations Associate (2025)
-* Oracle Data Platform Foundations Associate (2025)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PruthvirajPhadatare&theme=tokyonight&hide_border=true" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=PruthvirajPhadatare&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-### 🎓 Education
+## 🏆 Certifications
 
-* **M.Sc. in Computer Science** – Pune University (2021–2023) | 77.45%
-* **B.Sc. in Computer Science** – Pune University (2018–2021) | 78.78%
+🎓 AWS Certified Solutions Architect – Associate
+🎓 AWS Certified Cloud Practitioner
+🎓 OCI Architect Associate (2025)
+🎓 OCI Foundations Associate (2025)
 
 ---
 
-## 📬 Let's Build Something Scalable 🚀
+## 📬 Let's Connect
 
-Ready to architect cloud-native solutions and optimize infrastructure for performance and scalability.
-
-📧 **[pruthvirajphadatare@outlook.com](mailto:pruthvirajphadatare@outlook.com)**
-📍 Pune, India
+<p align="center">
+  <a href="mailto:pruthvirajphadatare@outlook.com">
+    <img src="https://img.shields.io/badge/Email-pruthvirajphadatare@outlook.com-blue?style=for-the-badge&logo=gmail">
+  </a>
+</p>
 
 ---
 
