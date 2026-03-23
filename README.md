@@ -1,18 +1,117 @@
-# 💫 About Me:
-AWS Cloud & DevOps Engineer with 2 years of experience in designing, automating, and deploying scalable cloud infrastructure.<br><br>🔹 Skilled in AWS, Terraform, Docker, Kubernetes, and CI/CD pipelines  <br>🔹 Experience in building 3-tier architectures and microservices platforms  <br>🔹 Strong foundation in Linux, networking, and cloud security  <br>🔹 Passionate about automation and DevOps best practices  <br><br>Currently focused on mastering Kubernetes, GitOps, and cloud-native architecture 🚀
+# 👋 Hi, I'm Pruthviraj Phadatare
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pruthvirajphadatare/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pruthvirajphadatare12@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=PruthvirajPhadatare&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=PruthvirajPhadatare&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PruthvirajPhadatare&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+🚀 **AWS Cloud & DevOps Engineer (2+ Years Experience)**
+☁️ Building scalable cloud infrastructure | Automating deployments | Optimizing CI/CD
+📍 Pune, India
 
 ---
-[![](https://visitcount.itsvg.in/api?id=PruthvirajPhadatare&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 About Me
+
+AWS Cloud & DevOps Engineer with hands-on experience in designing, automating, and deploying scalable infrastructure on AWS.
+
+🔹 Skilled in AWS, Terraform, Docker, Kubernetes, and CI/CD pipelines
+🔹 Experience in building **3-tier architectures** and **microservices platforms**
+🔹 Strong foundation in **Linux, networking, and cloud security**
+🔹 Passionate about **automation and DevOps best practices**
+
+🚀 Currently focusing on **Kubernetes, GitOps, and cloud-native architecture**
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pruthviraj%20Phadatare-blue?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/pruthvirajphadatare/)
+[![Email](https://img.shields.io/badge/Email-pruthvirajphadatare12%40gmail.com-red?logo=gmail\&logoColor=white)](mailto:pruthvirajphadatare12@gmail.com)
+
+---
+
+## ⚡ Tech Stack
+
+### ☁️ Cloud & Infrastructure
+
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge\&logo=amazon-aws)
+![Terraform](https://img.shields.io/badge/Terraform-IaC-purple?style=for-the-badge\&logo=terraform)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-IaC-yellow?style=for-the-badge\&logo=amazonaws)
+
+### ⚙️ DevOps & CI/CD
+
+![Docker](https://img.shields.io/badge/Docker-Container-blue?style=for-the-badge\&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue?style=for-the-badge\&logo=kubernetes)
+![Jenkins](https://img.shields.io/badge/Jenkins-CI/CD-red?style=for-the-badge\&logo=jenkins)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI/CD-black?style=for-the-badge\&logo=githubactions)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-GitOps-orange?style=for-the-badge\&logo=argo)
+
+### 🐧 OS & Scripting
+
+![Linux](https://img.shields.io/badge/Linux-OS-black?style=for-the-badge\&logo=linux)
+![Bash](https://img.shields.io/badge/Bash-Scripting-grey?style=for-the-badge\&logo=gnu-bash)
+![Python](https://img.shields.io/badge/Python-Scripting-blue?style=for-the-badge\&logo=python)
+
+### 📊 Monitoring & Logging
+
+![Prometheus](https://img.shields.io/badge/Prometheus-Monitoring-orange?style=for-the-badge\&logo=prometheus)
+![Grafana](https://img.shields.io/badge/Grafana-Visualization-orange?style=for-the-badge\&logo=grafana)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-AWS-blue?style=for-the-badge\&logo=amazonaws)
+
+### 🗄️ Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-Database-blue?style=for-the-badge\&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-NoSQL-green?style=for-the-badge\&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue?style=for-the-badge\&logo=postgresql)
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 Production-Grade AWS Infrastructure with CI/CD
+
+* Built modular infrastructure using **Terraform**
+* Automated deployment using **Jenkins CI/CD pipeline**
+* Integrated **EC2, RDS, IAM, VPC**
+* Reduced manual effort by **80%**
+
+---
+
+### 🔹 Multi-Region Microservices Platform (GitOps)
+
+* Deployed microservices on **Kubernetes (EKS)**
+* Implemented **GitOps using ArgoCD**
+* CI/CD via **GitHub Actions**
+* Monitoring with **Prometheus & Grafana**
+
+---
+
+### 🔹 3-Tier Architecture Deployment on AWS
+
+* Designed secure architecture using **VPC, ALB, EC2, RDS**
+* Implemented public + private subnet design
+* High availability and scalability setup
+
+---
+
+### 🔹 Docker & Kubernetes Migration Project
+
+* Containerized application using **Docker**
+* Deployed on **Kubernetes cluster**
+* Improved scalability and deployment consistency
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=PruthvirajPhadatare\&theme=tokyonight\&hide_border=true\&include_all_commits=true\&count_private=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=PruthvirajPhadatare\&theme=tokyonight\&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PruthvirajPhadatare\&theme=tokyonight\&hide_border=true\&layout=compact)
+
+---
+
+## 🔥 Profile Views
+
+![](https://visitcount.itsvg.in/api?id=PruthvirajPhadatare\&icon=0\&color=0)
+
+---
+
+⭐️ From [PruthvirajPhadatare](https://github.com/PruthvirajPhadatare)
