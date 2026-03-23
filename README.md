@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Pruthviraj Phadatare</h1>
+<h1 align="center"> Pruthviraj Phadatare</h1>
 <h3 align="center">AWS Cloud & DevOps Engineer | Terraform | Kubernetes | CI/CD</h3>
 
 <p align="center">
@@ -109,6 +109,8 @@
 ---
 
 ## 📬 Let's Connect
+
+![snake gif](https://github.com/PruthvirajPhadatare/PruthvirajPhadatare/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center">
   <a href="mailto:pruthvirajphadatare@outlook.com">
