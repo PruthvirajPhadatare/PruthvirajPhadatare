@@ -2,7 +2,7 @@
 <h3 align="center">AWS Cloud & DevOps Engineer | Terraform | Kubernetes | CI/CD</h3>
 
 <p align="center">
-  <a href="https://portfolio-pruthvi.vercel.app">
+  <a href="https://portfoliio-pruthvi.vercel.app/">
     <img src="https://img.shields.io/badge/🌐 Portfolio-Visit-blue?style=for-the-badge">
   </a>
   <a href="https://www.linkedin.com/in/pruthvirajphadatare/">
